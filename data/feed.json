@@ -2,53 +2,6 @@
   "updated": "2026-10-19",
   "posts": [
     {
-      "id": "2111785310619308271",
-      "date": "2026-10-18",
-      "type": "post",
-      "title": "",
-      "content": "adding 5 internal links to a page sounds too simple to move rankings\n\nuntil you see a page jump from page 2 to page 1 without a single new backlink\n\nthat’s when internal linking starts looking a lot less “basic”\n\nthe reason is simple\n\ngoogle doesn’t just look at what’s on the page\n\nit also looks at how the rest of your site treats that page\n\nif a service page is buried 4 clicks deep with 2 weak internal links pointing to it, you’re basically telling google:\n\n“this page isn’t that important”\n\nthen people wonder why it sits at #11 for 6 months\n\nwhat i do instead:\n\n> find pages already ranking between #5-15\n\n> find the strongest relevant pages on the site\n\n> add contextual internal links from those pages\n\n> use natural anchors that actually describe the target page\n\n> don’t repeat the exact same anchor 20 times\n\n> prioritize links from pages that already have traffic, backlinks or strong rankings\n\nthe key is relevance\n\na random link from an unrelated blog post won’t do much\n\nbut if you have a strong page about “AC repair” linking naturally into your “AC replacement” page, that signal actually makes sense\n\nand this is why internal links can move pages faster than people expect\n\nthe page is already close\n\ngoogle already understands it\n\nyou’re just making it clearer which pages on your site matter most\n\nbefore buying another backlink, i’d check this first\n\nyou might already have the authority\n\nyou’re just sending it to the wrong places",
-      "author": "Sarvesh Shrivastava",
-      "handle": "bloggersarvesh",
-      "link": "https://x.com/bloggersarvesh/status/2111785310619308271",
-      "image": "",
-      "notes": "内部链接策略可与外链建设互补，提升页面权重。",
-      "verified": false,
-      "replies": 6,
-      "reposts": 5,
-      "likes": 11,
-      "views": "1.9K",
-      "quote": null,
-      "comments": [
-        {
-          "id": "2111785717865328836",
-          "author": "Local SEO Rebel",
-          "handle": "localseorebel",
-          "text": "Thanks for sharing",
-          "date": "2026-10-18",
-          "link": "https://x.com/localseorebel/status/2111785717865328836",
-          "likes": 1
-        },
-        {
-          "id": "2111787107379290545",
-          "author": "Giovanni Labs",
-          "handle": "AI_Aristocrat",
-          "text": "Same holds on YouTube. End screens and description links between your own videos let one view lead to the next. It's the cheapest lever most channels ignore.",
-          "date": "2026-10-18",
-          "link": "https://x.com/AI_Aristocrat/status/2111787107379290545",
-          "likes": 0
-        },
-        {
-          "id": "2111966865714970917",
-          "author": "Kam Hossieny | CRO",
-          "handle": "kamhossieny",
-          "text": "internal links are underrated, especially when they help distribute authority to pages already close to ranking.",
-          "date": "2026-10-18",
-          "link": "https://x.com/kamhossieny/status/2111966865714970917",
-          "likes": 0
-        }
-      ]
-    },
-    {
       "id": "2111805522102169931",
       "date": "2026-10-18",
       "type": "post",
