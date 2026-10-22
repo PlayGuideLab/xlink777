@@ -1,1 +1,27 @@
-PLACEHOLDER_CSV
+date,type,content,source,author,link,notes
+2026-10-18,tip,主帖不放链接，链接放在第一条自我回复中，避免减少触达。 主帖保持独立价值，评论里再放链接。,xlink777,earnthread,https://x.com/earnthread/status/2111805522102169931,最常见建议。来源还提到 big_sensei、AlexFinn。
+2026-10-18,location,长期链接放在个人资料的 Bio 或 Website 字段，也可以用 Link-in-bio。 这个位置不挂在单条帖子上，是目前比较稳的放法。,xlink777,Buffer,https://s.ee/blog/get-more-website-traffic-from-x/,安全位置，不附加于单个帖子。
+2026-10-18,tip,优先文本、图片、视频和线程。链接只作补充。 Premium 账号发带链接的帖子表现更好；非 Premium 的链接帖参与可能接近于零。,xlink777,Buffer,https://buffer.com/resources/links-on-x/,Buffer 2025 分析。
+2026-10-18,method,把链接放在第一条回复，并写上 link below，或直接把链接贴在那里。 这样是把人推进评论区，而不是在主帖里硬塞链接。,xlink777,big_sensei,https://x.com/big_sensei/status/1996128574382727591,同样的做法也出现在 AlexFinn 的帖子里。
+2026-10-18,observation,2026 年中后期的数据里，链接惩罚可能已经减少或取消。Elon 说过超过一年没有罚；OpenTweet 的数据里，带链接的帖子并不更差。 仍然建议自己测，并优先用回复放链接。,xlink777,OpenTweet,https://opentweet.io/answers/does-x-penalize-links-2026,观察，不是保证。
+2026-10-18,position,主帖写有价值的内容，第一条自我回复里再放链接。 这是目前被提到最多的稳妥位置。,xlink777,X Community,https://x.com,Most recommended safe method
+2026-10-18,position,长期链接放在简介，或置顶帖。 适合一直要留着的地址，不适合只发一次的活动。,xlink777,X Community,https://x.com,Safest for permanent links
+2026-10-18,tip,自己建 GitHub 仓库、Chrome 扩展、NPM 包，再从这些地方链回站点。 这是在做自己的高权重资产，不是去借别人的评论区。,xlink777,AINoSleep,https://x.com/AINoSleep/status/2111712252768469009,Own high DR properties
+2026-10-18,method,用用户会问的方式写内容，让 AI 回答时引用你的页面。 外链和被 AI 引用可以一起做。,xlink777,Wolong,https://x.com/wolong8848/status/2111723648017113491,AI recommendation traffic
+2026-10-18,post,"Posts with links tend to reach fewer people on X. So: • Write the post so it stands alone • Put the link in the first reply • Only say \"link below\" if the post needs it Your best post shouldn't depend on a click to be useful.",xlink777,EarnThread,https://x.com/earnthread/status/2111805522102169931,Updated to full post
+2026-10-17,post,"One mistake that could be hurting your reach on X 👇 If you’re a creator, avoid putting a direct link to a private platform in your bio. ... Use a redirect link like Linkme.",xlink777,Jeremy,https://x.com/jeremyilrr/status/2111411515303809327,Bio link redirect advice
+2026-10-16,post,"X's open-sourced ranking code shows that a post with an outside link in the body loses about 30 to 50% of its reach. Post the words on their own and put the link in the first reply.",xlink777,Matthew Myers,https://x.com/DAIpilot/status/2111080026078621770,30-50% reach loss
+2026-10-14,post,"X’s algorithm is open source. Here’s what its ranking weights reveal about growing here 👇 Click an external link: +0.2 ...",xlink777,Dharmesh P,https://x.com/itsKamadh/status/2110381716615622838,Algorithm weights, external link +0.2
+2026-10-11,post,"External Link Suppression Bypass: Keep external URLs completely out of the main post body to avoid the 30%–50% reach penalty, placing links strictly in the first self-reply.",xlink777,Ashwin,https://x.com/ExitTheIllusion/status/2109414993867272588,30-50% penalty bypass
+2026-10-18,post,adding 5 internal links to a page sounds too simple to move rankings until you see a page jump from page 2 to page 1 without a single new backlink,xlink777,Sarvesh Shrivastava,https://x.com/bloggersarvesh/status/2111785310619308271,内部链接SEO策略
+2026-10-17,post,To maintain your post's reach on X, keep URLs out of the main content. Share the value first, then drop any links in a reply.,xlink777,Costin Gheorghe,https://x.com/costin_gh07/status/2111558055863464061,链接放回复
+2025-10-18,post,I’ve noticed many of you are creating great content but not getting the reach you deserve. ... put links in replies.,xlink777,THΞGABO🍌,https://x.com/thegaboeth/status/1979530231750008880,外链放回复避免降权
+2025-01-30,post,Outside links are completely deprioritized in the code. If you HAVE to include links, reply to your original post and put it in the follow up,xlink777,Alex Finn,https://x.com/AlexFinn/status/1885023815316738051,外链放回复
+2026-10-15,post,在 PRLog 发新闻稿、提交相关目录、用 Babylove Growth 和 badge 交换、写法律指南文章，得到本地目录网站近 2500 Google 点击。,xlink777,Grant O,https://x.com/2whazzuup/status/2110595028015808766,目录站外链策略带结果数字
+2026-10-10,post,为 SaaS 创建 MCP Server 并提交到 ChatGPT Plugins，得到 93 DR dofollow 外链。,xlink777,Hasan Cagli,https://x.com/HsanC_/status/2109018481433993608,MCP 到 ChatGPT 插件外链
+2026-10-19,post,把产品功能做成 MCP server，用 mcp-publisher 发布到官方 MCP Registry 并提交到 MCP 目录，得到相关外链和发现访问。,xlink777,DY,https://x.com/DYoung_AI/status/2112097176260145495,MCP Registry 发布获取外链
+2026-10-21,post,"在 Smithery MCP marketplace 提交远程 MCP server，验证域名所有权并添加 badge，得到 dofollow 外链和用户直接试用入口。",xlink777,Taras,https://x.com/tarasshyn/status/2111809522671202657,Smithery MCP marketplace 提交
+2026-10-21,post,"在 mcpservers.org 免费提交 MCP server，得到 DR72 nofollow 外链（约2周审核）。",xlink777,Rapid Indexer,https://x.com/rapid_indexer/status/2111733237097873854,mcpservers.org MCP 目录
+2026-10-21,post,"提交网站到 Product Hunt、SaaSHub 等目录，添加标题细节 logo URL，得到免费外链和可见性。",xlink777,Hridoy Reh,https://x.com/hridoyreh/status/2112861705621659946,目录提交 Product Hunt SaaSHub
+2026-10-22,post,"在 HARO、Terkel、Connectively 上快速回答记者查询，提供具体案例数字并签名真实 bio，得到被引用的编辑外链。",xlink777,Nadir Pitafi,https://x.com/Nadirpitafi324/status/2113185110891930010,HARO 记者查询获取编辑外链
+2026-10-22,post,"在 openhunts.com 免费提交产品 launch（Google/GitHub 登录），选 Free Launch 并周一上线争取 upvotes，得到 DR73 nofollow 外链（top3 才可能 dofollow，免费排队约60周）。",xlink777,Rapid Indexer,https://x.com/rapid_indexer/status/2113181365583884453,openhunts.com 免费 launch 目录
