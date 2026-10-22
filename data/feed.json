@@ -1,1 +1,43 @@
-PLACEHOLDER_FEED
+{
+  "updated": "2026-10-22",
+  "posts": [
+    {
+      "id": "2113185110891930010",
+      "date": "2026-10-22",
+      "type": "post",
+      "title": "",
+      "content": "Earned beats pitched.\\n\\nJournalists on HARO, Terkel, Connectively need expert quotes daily. Answer fast, be specific (\"in our campaigns, X saw Y\"), sign with a real bio — and get cited with a link money can't buy.\\n\\n#SEO #LinkBuilding",
+      "author": "Nadir Pitafi",
+      "handle": "Nadirpitafi324",
+      "link": "https://x.com/Nadirpitafi324/status/2113185110891930010",
+      "image": "",
+      "notes": "在 HARO、Terkel、Connectively 上快速回答记者查询，提供具体案例数字并签名真实 bio，得到被引用的编辑外链。",
+      "verified": false,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": "5",
+      "quote": null,
+      "comments": []
+    },
+    {
+      "id": "2113181365583884453",
+      "date": "2026-10-22",
+      "type": "post",
+      "title": "",
+      "content": "Here's a free DR 73 backlink you can build for your startup. ~6.1K organic visits/mo.\\n\\n1. Sign up at https://openhunts.com via Google or GitHub\\n2. Submit, pick Free Launch\\n3. Go live on a Monday, get upvotes\\n\\nCatch: nofollow unless you make top 3, free queue ~60 weeks.",
+      "author": "Rapid Indexer - Fastest Indexing Tool",
+      "handle": "rapid_indexer",
+      "link": "https://x.com/rapid_indexer/status/2113181365583884453",
+      "image": "https://pbs.twimg.com/media/HVOHPC1bQAAm6vW.jpg",
+      "notes": "在 openhunts.com 免费提交产品 launch（Google/GitHub 登录），选 Free Launch 并周一上线争取 upvotes，得到 DR73 nofollow 外链（top3 才可能 dofollow，免费排队约60周）。",
+      "verified": false,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": "31",
+      "quote": null,
+      "comments": []
+    }
+  ]
+}
