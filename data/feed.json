@@ -1,1 +1,24 @@
-PLACEHOLDER_WILL_REPLACE
+{
+  "updated": "2026-10-31",
+  "posts": [
+    {
+      "id": "2116563850464043200",
+      "date": "2026-10-31",
+      "type": "post",
+      "title": "",
+      "content": "Another great visibility hack for your SaaS is to get listed on the EmDash plugin registry (DR 76). You get a dedicated page with a dofollow link to your website.\\n\\nMassive shout-out to @apexmarketinguk  for sharing it with me\\n\\nHere is how:\\n\\n1. Scaffold a plugin: pnpm dlx @ emdash-cms/plugin-cli init my-plugin\\n2. Build something simple that connects EmDash to your SaaS, like sharing a post when an entry is published (ask Claude to build it for you).\\n3. Set author.url in the manifest to your website. That's the dofollow link on your page.\\n4. Run emdash-plugin login with a Bluesky account, then emdash-plugin publish.\\n\\nThat's it. No form, no review queue. The registry runs automated checks and your page goes live at plugins.emdashcms .com/plugins/@<you>/<plugin>.\\n\\nA few notes:\\n\\nEmDash is Cloudflare's new CMS, and its registry has only a handful of plugins so far.\\n\\nUse a Bluesky account with your domain as the handle. Your listing then reads @ yourdomain. com instead of @ yourname .bsky.social.",
+      "author": "Taras",
+      "handle": "tarasshyn",
+      "link": "https://x.com/tarasshyn/status/2116563850464043200",
+      "image": "",
+      "notes": "在 EmDash plugin registry（plugins.emdashcms.com）用 CLI scaffold 简单插件连接 SaaS，设置 manifest author.url 为网站，用 Bluesky 账号 login 并 publish，得到 DR76 dofollow 专用页面外链（无审核队列）。",
+      "verified": false,
+      "replies": 1,
+      "reposts": 0,
+      "likes": 0,
+      "views": "19",
+      "quote": null,
+      "comments": []
+    }
+  ]
+}
