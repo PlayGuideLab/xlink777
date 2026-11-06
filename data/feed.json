@@ -1,1 +1,32 @@
-PLACEHOLDER_FEED_REAL
+{
+  "posts": [
+    {
+      "id": "2118714992119759236",
+      "date": "2026-11-06",
+      "type": "post",
+      "title": "",
+      "content": "Another great visibility hack for your SaaS is to get listed on the Hermes Agent marketplace (DR 84). You get a dedicated page and a dofollow link.\n\nMassive shoutout to @aarondelasy for finding this.\n\nHere is how:\n\n1. Have a remote MCP server for your SaaS (ask Claude to build it for you).\n2. Make a public GitHub repo with a plugin.json, an mcp.json and a skill for your MCP.\n3. Open a PR to NousResearch/hermes-agent that adds one file, plugin-catalog/yourname.yaml, pinned to your commit.\n4. Wait for the merge. Ours took less than a day.\n\nA few notes:\n\nInstall your plugin in Hermes yourself and post the test results on the PR, reviewers look for it.\n\nOnce it's merged, anyone can install it with hermes plugins directly.",
+      "author": "Taras",
+      "handle": "@tarasshyn",
+      "link": "https://x.com/tarasshyn/status/2118714992119759236",
+      "image": "https://pbs.twimg.com/media/HWcZLy6XUAAVeWr.jpg",
+      "notes": "在 Hermes Agent marketplace 拥有 remote MCP server，制作含 plugin.json/mcp.json/skill 的公共 GitHub repo，向 NousResearch/hermes-agent 开 PR 添加 plugin-catalog yaml 并等待 merge，得到 DR84 dofollow 专用页外链。",
+      "verified": false,
+      "replies": 3,
+      "reposts": 1,
+      "likes": 14,
+      "views": 756,
+      "quote": null,
+      "comments": [
+        {
+          "id": "2118716060539191358",
+          "author": "Marvin",
+          "handle": "@growaiskills",
+          "text": "合并后还要打开公开页面核对链接和安装入口。PR 合并、目录展示、真实用户能安装，是三个不同的检查点。",
+          "link": "https://x.com/growaiskills/status/2118716060539191358",
+          "likes": 0
+        }
+      ]
+    }
+  ]
+}
