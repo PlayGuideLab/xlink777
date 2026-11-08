@@ -1,1 +1,132 @@
-PLACEHOLDER_FEED
+{
+  "posts": [
+    {
+      "id": "2119435109405175973",
+      "date": "2026-11-08",
+      "type": "post",
+      "title": "",
+      "content": "Another great visibility hack for your SaaS is to get listed on LobeHub (DR 75). You get a dedicated page and a dofollow link.\n\nHere is how:\n\n1. Put your MCP server in a public GitHub repo with a detailed README (ask Claude to do it for you). LobeHub builds your page from it.\n2. Install the CLI with npm i -g @ lobehub/market-cli, then run lhm login and lhm github connect.\n3. Add an lhm.plugin.json with a name, version and your MCP URL, then run lhm plugin publish.\n\nA few notes:\n\nEvery link in your README shows up on the page, and they're all dofollow. Link your homepage and signup page.",
+      "author": "Taras",
+      "handle": "@tarasshyn",
+      "link": "https://x.com/tarasshyn/status/2119435109405175973",
+      "image": "https://pbs.twimg.com/media/HWm-3UwXkAAsZED.jpg",
+      "notes": "在 LobeHub 上通过 CLI 发布 MCP server plugin，得到 DR75 的 dofollow 专页外链。",
+      "verified": false,
+      "replies": 2,
+      "reposts": 0,
+      "likes": 22,
+      "views": 2235,
+      "quote": null,
+      "comments": [
+        {
+          "author": "Fanfulla",
+          "handle": "@Fanfulladev",
+          "content": "Stuffing the README with signup links feels spammy to me, the page should sell the tools first and the links come after",
+          "link": "https://x.com/Fanfulladev/status/2119436838209454351"
+        }
+      ]
+    },
+    {
+      "id": "2119079928901890194",
+      "date": "2026-11-07",
+      "type": "post",
+      "title": "",
+      "content": "Another great visibility hack for your SaaS is to get listed on Vercel's https://www.skills.sh/ (DR 82). You get a dedicated page with your skill, its install command and an install counter.\n\nHere is how:\n\n1. Write an agent skill for your SaaS, a SKILL.md that tells the agent how to use your API (ask Claude to do it for you).\n2. Put it in a public GitHub repo.\n3. Run npx skills add your-org/your-repo once.",
+      "author": "Taras",
+      "handle": "@tarasshyn",
+      "link": "https://x.com/tarasshyn/status/2119079928901890194",
+      "image": "https://pbs.twimg.com/media/HWhfaUhXQAAcsUF.jpg",
+      "notes": "在 Vercel skills.sh 上添加 agent skill，得到 DR82 的专页（带安装计数）。",
+      "verified": false,
+      "replies": 7,
+      "reposts": 6,
+      "likes": 192,
+      "views": 51043,
+      "quote": null,
+      "comments": [
+        {
+          "author": "Tushar Kapil",
+          "handle": "@TusharKapil003",
+          "content": "It’s a no follow link though",
+          "link": "https://x.com/TusharKapil003/status/2119334903124988141"
+        }
+      ]
+    },
+    {
+      "id": "2119357329174872539",
+      "date": "2026-11-08",
+      "type": "post",
+      "title": "",
+      "content": "Another free backlink hack for your SaaS: get listed on DigitalOcean Marketplace (DR 91). Dedicated page linking to your site, dofollow.\n\nHere is how:\n1. Go to https://marketplace.digitalocean.com/vendors\n2. Apply as a vendor\n3. After approval, submit your listing",
+      "author": "Rapid Indexer - Fastest Indexing Tool",
+      "handle": "@rapid_indexer",
+      "link": "https://x.com/rapid_indexer/status/2119357329174872539",
+      "image": "https://pbs.twimg.com/media/HWl4K_BWYAAz6Cw.jpg",
+      "notes": "在 DigitalOcean Marketplace 上申请 vendor 并提交 listing，得到 DR91 的 dofollow 专页外链。",
+      "verified": false,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 42,
+      "quote": null,
+      "comments": []
+    },
+    {
+      "id": "2119088423352828086",
+      "date": "2026-11-07",
+      "type": "post",
+      "title": "",
+      "content": "Another free backlink hack for your SaaS: get listed on Box Integrations (DR 91). Dedicated page linking to your site, dofollow.\n\nHere is how:\n1. Go to https://app.box.com/developers/console\n2. Open your OAuth app, then Publishing\n3. Fill the listing, submit",
+      "author": "Rapid Indexer - Fastest Indexing Tool",
+      "handle": "@rapid_indexer",
+      "link": "https://x.com/rapid_indexer/status/2119088423352828086",
+      "image": "https://pbs.twimg.com/media/HWiDpOWX0AA54Qi.png",
+      "notes": "在 Box Integrations 上提交 OAuth app listing，得到 DR91 的 dofollow 专页外链。",
+      "verified": false,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 15,
+      "quote": null,
+      "comments": []
+    },
+    {
+      "id": "2118998362594685199",
+      "date": "2026-11-07",
+      "type": "post",
+      "title": "",
+      "content": "Another free backlink hack for your SaaS: get listed on LiveChat Marketplace (DR 88). Dedicated page linking to your site, dofollow.\n\nHere is how:\n1. Go to https://platform.text.com/console\n2. Build app, fill Marketplace details\n3. Submit, then publish",
+      "author": "Rapid Indexer - Fastest Indexing Tool",
+      "handle": "@rapid_indexer",
+      "link": "https://x.com/rapid_indexer/status/2118998362594685199",
+      "image": "https://pbs.twimg.com/media/HWgxvEgW4AMCPid.jpg",
+      "notes": "在 LiveChat Marketplace 上 build app 并提交发布，得到 DR88 的 dofollow 专页外链。",
+      "verified": false,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 40,
+      "quote": null,
+      "comments": []
+    },
+    {
+      "id": "2118788903557861818",
+      "date": "2026-11-06",
+      "type": "post",
+      "title": "",
+      "content": "Another free backlink hack for your SaaS: get listed on JetBrains Marketplace (DR 91). Dedicated page linking to your site, dofollow.\n\nHere is how:\n1. Go to https://plugins.jetbrains.com\n2. Sign in, pick Upload plugin\n3. Vendor profile, submit zip",
+      "author": "Rapid Indexer - Fastest Indexing Tool",
+      "handle": "@rapid_indexer",
+      "link": "https://x.com/rapid_indexer/status/2118788903557861818",
+      "image": "https://pbs.twimg.com/media/HWdzNkHW8AAdhXO.jpg",
+      "notes": "在 JetBrains Marketplace 上传 plugin 并提交，得到 DR91 的 dofollow 专页外链。",
+      "verified": false,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 1,
+      "views": 65,
+      "quote": null,
+      "comments": []
+    }
+  ]
+}
