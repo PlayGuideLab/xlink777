@@ -1,1 +1,61 @@
-PLACEHOLDER_WILL_REPLACE
+{
+  "posts": [
+    {
+      "id": "2123417510930157728",
+      "date": "2026-11-19",
+      "type": "post",
+      "title": "",
+      "content": "Another great visibility hack for your SaaS is to get listed on the Raycast Store (DR 82). You get a dedicated Store page, and people can use your SaaS right from their command bar.\n\nHere is how:\n\n1. Build a Raycast extension that connects to your SaaS API (ask Claude to build it for you). Start with a few useful commands, like searching records or creating a draft.\n2. Add your logo, a short description and setup instructions explaining how users connect their account. Use your Raycast username as the author.\n3. Test the extension inside Raycast and take screenshots with its Window Capture command. Run npm run build and npm run lint.\n4. Run npm run publish. Sign in with GitHub and it opens a pull request in raycast/extensions for you.\n5. Address the review comments. Once Raycast merges your PR, your extension goes live on raycast .com/store automatically.\n\nA few notes:\n\nBuild commands your customers will actually use. Searching their data or creating something without opening another browser tab gives them a reason to install it.",
+      "author": "Taras",
+      "handle": "@tarasshyn",
+      "link": "https://x.com/tarasshyn/status/2123417510930157728",
+      "image": "https://pbs.twimg.com/media/HXa6ByoXMAA31Vs.jpg",
+      "notes": "在 Raycast Store 构建连接 SaaS API 的 extension、测试并 npm run publish 开 PR 到 raycast/extensions，得到 DR82 的 dedicated Store page。",
+      "verified": false,
+      "replies": 2,
+      "reposts": 0,
+      "likes": 7,
+      "views": 366,
+      "quote": null,
+      "comments": []
+    },
+    {
+      "id": "2123434763155566970",
+      "date": "2026-11-19",
+      "type": "post",
+      "title": "",
+      "content": "Another backlink hack for your SaaS: get your app on the Snap Store (DR 84). Dofollow link to your site.\n\nHere is how:\n1. Go to https://login.ubuntu.com/5txVE9HRrgPToH1n/+decide\n2. snapcraft register yourapp\n3. Add website: in snapcraft.yaml, upload\n\nNeeds a Linux build.",
+      "author": "Rapid Indexer - Fastest Indexing Tool",
+      "handle": "@rapid_indexer",
+      "link": "https://x.com/rapid_indexer/status/2123434763155566970",
+      "image": "https://pbs.twimg.com/media/HXf0i-_asAAOmD7.jpg",
+      "notes": "在 Snap Store 通过 snapcraft register、在 snapcraft.yaml 添加 website 并 upload，得到 DR84 的 dofollow link。",
+      "verified": false,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 56,
+      "quote": null,
+      "comments": []
+    },
+    {
+      "id": "2123345395007045970",
+      "date": "2026-11-19",
+      "type": "post",
+      "title": "",
+      "content": "Another backlink hack for your SaaS: get listed on Google Play (DR 100). Dofollow link to your site.\n\nHere is how:\n1. Go to https://accounts.google.com/v3/signin/identifier?continue=https://play.google.com/console/signup&followup=https://play.google.com/console/signup&passive=1209600&service=androiddeveloper&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S1006926365:1794598879930213\n2. Pay $25, create your app\n3. Add your site as contact\n\nPersonal accounts: 14-day test first.",
+      "author": "Rapid Indexer - Fastest Indexing Tool",
+      "handle": "@rapid_indexer",
+      "link": "https://x.com/rapid_indexer/status/2123345395007045970",
+      "image": "https://pbs.twimg.com/media/HXejRfLbYAA7f-f.jpg",
+      "notes": "在 Google Play Console 支付 $25 创建 app、添加 site as contact，得到 DR100 的 dofollow link。",
+      "verified": false,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 96,
+      "quote": null,
+      "comments": []
+    }
+  ]
+}
