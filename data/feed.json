@@ -1,1 +1,23 @@
-PLACEHOLDER_FEED_CONTENT
+{
+  "posts": [
+    {
+      "id": "2124158616047370384",
+      "date": "2026-11-21",
+      "type": "post",
+      "title": "",
+      "content": "Another free backlink hack for your SaaS: get listed on Craft CMS Plugin Store (DR 80). Dofollow link to your site.\n\nHere is how:\n1. Sign up at https://console.craftcms.com/register\n2. Connect GitHub, add plugin\n3. Submit for approval\n\nCraft plugins only.\n\nhttps://t.co/ZMACg3SRnv",
+      "author": "Rapid Indexer - Fastest Indexing Tool",
+      "handle": "@rapid_indexer",
+      "link": "https://x.com/rapid_indexer/status/2124158616047370384",
+      "image": "https://pbs.twimg.com/media/HXqG44yXQAAYL51.jpg",
+      "notes": "在 Craft CMS Plugin Store 注册 console.craftcms.com、连接 GitHub 添加 plugin、提交 approval，得到 DR80 的 dofollow link。",
+      "verified": false,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 14,
+      "quote": null,
+      "comments": []
+    }
+  ]
+}
