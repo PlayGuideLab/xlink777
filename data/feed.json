@@ -1,1 +1,61 @@
-PLACEHOLDER_FOR_FULL_JSON_CONTENT
+{
+  "posts": [
+    {
+      "id": "2126332490046742975",
+      "date": "2026-11-27",
+      "type": "post",
+      "title": "",
+      "content": "Another free backlink hack for your SaaS: get listed on the BigCommerce App Marketplace (DR 92). Dofollow link to your site.\n\nHere's how:\n1. Apply at https://partners.bigcommerce.com/prm/English/s/applicant\n2. Build a BigCommerce app\n3. Submit it ($99 review fee)\n\nhttps://t.co/7AFPZz6C3v",
+      "author": "Rapid Indexer - Fastest Indexing Tool",
+      "handle": "@rapid_indexer",
+      "link": "https://x.com/rapid_indexer/status/2126332490046742975",
+      "image": "https://pbs.twimg.com/media/HYJAHONXEAAnviL.jpg",
+      "notes": "在 BigCommerce App Marketplace 申请 https://partners.bigcommerce.com/prm/English/s/applicant、构建 BigCommerce app、提交（$99 review fee），得到 DR92 的 dofollow link。",
+      "verified": false,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 1,
+      "views": 62,
+      "quote": null,
+      "comments": []
+    },
+    {
+      "id": "2126243445908046041",
+      "date": "2026-11-27",
+      "type": "post",
+      "title": "",
+      "content": "Another free backlink hack for your SaaS: get listed on the Adobe Commerce Marketplace (DR 95). Dofollow links to your docs.\n\nHere's how:\n1. Sign up at https://commercedeveloper.adobe.com\n2. Build an extension for your product\n3. Pass their review\n\nhttps://t.co/zSjTXNcXQp",
+      "author": "Rapid Indexer - Fastest Indexing Tool",
+      "handle": "@rapid_indexer",
+      "link": "https://x.com/rapid_indexer/status/2126243445908046041",
+      "image": "https://pbs.twimg.com/media/HYHvHzrX0AAdwDf.jpg",
+      "notes": "在 Adobe Commerce Marketplace 注册 https://commercedeveloper.adobe.com、构建 extension、通过 review，得到 DR95 的 dofollow links to docs。",
+      "verified": false,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 0,
+      "views": 98,
+      "quote": null,
+      "comments": []
+    },
+    {
+      "id": "2126034266756943977",
+      "date": "2026-11-26",
+      "type": "post",
+      "title": "",
+      "content": "Another free backlink hack for your SaaS: get listed on the Matomo Plugin Marketplace (DR 92). Dofollow link to your site.\n\nHere's how:\n1. Follow https://developer.matomo.org/guides/distributing-your-plugin \n2. Build a plugin\n3. Add their GitHub webhook\n4. Tag a release\n\nhttps://t.co/Tm7yKUPQ8Y",
+      "author": "Rapid Indexer - Fastest Indexing Tool",
+      "handle": "@rapid_indexer",
+      "link": "https://x.com/rapid_indexer/status/2126034266756943977",
+      "image": "https://pbs.twimg.com/media/HYEw0tRWkAAx3ST.jpg",
+      "notes": "在 Matomo Plugin Marketplace 按照 https://developer.matomo.org/guides/distributing-your-plugin 构建 plugin、添加 GitHub webhook、tag a release，得到 DR92 的 dofollow link。",
+      "verified": false,
+      "replies": 0,
+      "reposts": 0,
+      "likes": 1,
+      "views": 90,
+      "quote": null,
+      "comments": []
+    }
+  ]
+}
